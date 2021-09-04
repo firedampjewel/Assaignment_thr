@@ -1,0 +1,33 @@
+.portfolio-area {
+    background-color: #abb6ea;
+    margin: 45px 63px;
+    padding: 41px 75px;
+    border-radius: 15px;
+}
+
+
+h1 {
+    color: white;
+    font-size: 46px;
+}
+
+
+h3 {
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    font-size: 27px;
+    color: lightseagreen;
+}
+
+
+ul li {
+    list-style: none;
+    padding: 4px;
+    font-size: 18px;
+    font-weight: 600;
+    color: blueviolet;
+}
+
+ul {
+    padding-left: 10px;
+}
